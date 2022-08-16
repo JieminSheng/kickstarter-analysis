@@ -1,5 +1,5 @@
 # kickstarter-analysis
-Performing analysis on Kickstarter data to uncover trens
+Performing analysis on Kickstarter data to uncover trends
 # Kickstarting with Excel:Assessing Campaign Outcomes by Launch Dates and Funding Goals 
 
 ## Overview of Project
@@ -16,7 +16,7 @@ The purpose of this analysis is to generate a visual representation in tabular a
 
 ### Analysis of Outcomes Based on Launch Date
 
-![Theater_Outcomes_vs_Launch.png](kickstarter-analysis/resources/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](kickstarter-analysis/resources/Theater_Outcomes_vs_Launch.png)
 
 In the sample of theater-related Kickstarter funding campaigns, with theater selected as the category and no subcategories, there are 839 successful campaigns, 493 failed campaigns, and 37 canceled campaigns in the time period. 
 
@@ -32,7 +32,7 @@ Cancellations remained consistent under 10 in value with only minor differences 
 
 ### Analysis of Outcomes Based on Funding Goal
 
-![Outcomes_vs_Goals.png](kickstarter-analysis/resources/Outcomes_vs_Goals.png )
+![Outcomes_vs_Goals](kickstarter-analysis/resources/Outcomes_vs_Goals.png)
 
 In the sample of play-related Kickstarter funding campaigns, with plays selected as the subcategory, there are 694 successful campaigns, 353 failed campaigns, and 0 canceled campaigns in the time period. 
 
