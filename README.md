@@ -16,8 +16,6 @@ The purpose of this analysis is to generate a visual representation in tabular a
 
 ### Analysis of Outcomes Based on Launch Date
 
-![Theater_Outcomes_vs_Launch](resources/Theater_Outcomes_vs_Launch.png)
-
 In the sample of theater-related Kickstarter funding campaigns, with theater selected as the category and no subcategories, there are 839 successful campaigns, 493 failed campaigns, and 37 canceled campaigns in the time period. 
 
 We note the following total quantities of campaigns regarding campaigns launching for each month: 96 in January, 113 in February, 92 in March, 113 in April, 166 in May, 153 in June, 138 in July, 123 in August, 97 in September, 115 in October, 88 in November, and 75 in December.
@@ -31,8 +29,6 @@ Failures had a small increase from January to February before falling in March. 
 Cancellations remained consistent under 10 in value with only minor differences month-to-month.
 
 ### Analysis of Outcomes Based on Funding Goal
-
-![Outcomes_vs_Goals](resources/Outcomes_vs_Goals.png)
 
 In the sample of play-related Kickstarter funding campaigns, with plays selected as the subcategory, there are 694 successful campaigns, 353 failed campaigns, and 0 canceled campaigns in the time period. 
 
